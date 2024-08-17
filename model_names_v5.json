@@ -1,0 +1,51 @@
+{
+  "models": [
+    {
+      "id": "north-dakota-v2",
+      "name": "North Dakota V2 (Default) 👀📡"
+    },
+    {
+      "id": "certified-herbalist",
+      "name": "Certified Herbalist 🗺️👀📡"
+    },
+    {
+      "id": "clairvoyant",
+      "name": "Clairvoyant 👀📡",
+      "experimental": "True"
+    },
+    {
+      "id": "duck-amigo",
+      "name": "Duck Amigo 🗺️👀📡"
+    },
+    {
+      "id": "los-angeles",
+      "name": "Los Angeles 🗺️👀📡"
+    },
+    {
+      "id": "north-dakota",
+      "name": "North Dakota 👀📡"
+    },
+    {
+      "id": "notre-dame",
+      "name": "Notre Dame 👀📡"
+    },
+    {
+      "id": "radical-turtle",
+      "name": "Radical Turtle 👀",
+      "experimental": "True"
+    },
+    {
+      "id": "recertified-herbalist",
+      "name": "Recertified Herbalist 🗺️👀📡"
+    },
+    {
+      "id": "secret-good-openpilot",
+      "name": "SecretGoodOpenpilot 👀📡",
+      "experimental": "True"
+    },
+    {
+      "id": "wd-40",
+      "name": "WD-40 👀📡"
+    }
+  ]
+}
