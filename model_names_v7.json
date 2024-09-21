@@ -49,7 +49,7 @@
     {
       "id": "tomb-raider",
       "name": "Tomb Raider 👀📡",
-      "e2e_longitudinal": "True",
+      "e2e_longitudinal": "False",
       "experimental": "True",
       "poseless": "True",
       "velocity": "True"
