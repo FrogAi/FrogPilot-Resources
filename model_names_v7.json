@@ -9,13 +9,6 @@
       "name": "Certified Herbalist 🗺️👀📡"
     },
     {
-      "id": "clairvoyant-driver",
-      "name": "Clairvoyant Driver 👀📡",
-      "experimental": "True",
-      "poseless": "True",
-      "velocity": "True"
-    },
-    {
       "id": "duck-amigo",
       "name": "Duck Amigo 🗺️👀📡"
     },
@@ -50,15 +43,6 @@
       "id": "tomb-raider",
       "name": "Tomb Raider 👀📡",
       "e2e_longitudinal": "False",
-      "experimental": "True",
-      "poseless": "True",
-      "velocity": "True"
-    },
-    {
-      "id": "tomb-raider-v2",
-      "name": "Tomb Raider V2 👀📡",
-      "e2e_longitudinal": "False",
-      "experimental": "True",
       "poseless": "True",
       "velocity": "True"
     },
