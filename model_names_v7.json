@@ -55,6 +55,14 @@
       "velocity": "True"
     },
     {
+      "id": "tomb-raider-v2",
+      "name": "Tomb Raider V2 👀📡",
+      "e2e_longitudinal": "False",
+      "experimental": "True",
+      "poseless": "True",
+      "velocity": "True"
+    },
+    {
       "id": "wd-40",
       "name": "WD-40 👀📡"
     }
