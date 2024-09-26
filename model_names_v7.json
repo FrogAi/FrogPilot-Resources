@@ -37,7 +37,9 @@
       "id": "secret-good-openpilot",
       "name": "SecretGoodOpenpilot 👀📡",
       "e2e_longitudinal": "True",
-      "experimental": "True"
+      "experimental": "True",
+      "poseless": "True",
+      "velocity": "True"
     },
     {
       "id": "tomb-raider",
