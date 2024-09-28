@@ -13,6 +13,13 @@
       "name": "Duck Amigo 🗺️👀📡"
     },
     {
+      "id": "game-boy",
+      "name": "Game Boy 👀📡",
+      "gas_brake": "True",
+      "poseless": "True",
+      "velocity": "True"
+    },
+    {
       "id": "los-angeles",
       "name": "Los Angeles 🗺️👀📡"
     },
