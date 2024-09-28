@@ -20,6 +20,13 @@
       "velocity": "True"
     },
     {
+      "id": "game-boy-v2",
+      "name": "Game Boy V2 👀📡",
+      "gas_brake": "True",
+      "poseless": "True",
+      "velocity": "True"
+    },
+    {
       "id": "los-angeles",
       "name": "Los Angeles 🗺️👀📡"
     },
