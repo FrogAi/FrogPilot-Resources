@@ -1,0 +1,57 @@
+{
+  "models": [
+    {
+      "id": "game-boy",
+      "name": "Game Boy (Default) 👀📡",
+      "gas_brake": "True",
+      "poseless": "True",
+      "velocity": "True"
+    },
+    {
+      "id": "certified-herbalist",
+      "name": "Certified Herbalist 🗺️👀📡"
+    },
+    {
+      "id": "duck-amigo",
+      "name": "Duck Amigo 🗺️👀📡"
+    },
+    {
+      "id": "los-angeles",
+      "name": "Los Angeles 🗺️👀📡"
+    },
+    {
+      "id": "north-dakota",
+      "name": "North Dakota 👀📡"
+    },
+    {
+      "id": "notre-dame",
+      "name": "Notre Dame 👀📡"
+    },
+    {
+      "id": "radical-turtle",
+      "name": "Radical Turtle 👀",
+      "experimental": "True"
+    },
+    {
+      "id": "recertified-herbalist",
+      "name": "Recertified Herbalist 🗺️👀📡"
+    },
+    {
+      "id": "secret-good-openpilot",
+      "name": "SecretGoodOpenpilot 👀📡",
+      "experimental": "True",
+      "poseless": "True",
+      "velocity": "True"
+    },
+    {
+      "id": "tomb-raider",
+      "name": "Tomb Raider 👀📡",
+      "poseless": "True",
+      "velocity": "True"
+    },
+    {
+      "id": "wd-40",
+      "name": "WD-40 👀📡"
+    }
+  ]
+}
