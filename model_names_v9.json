@@ -1,11 +1,8 @@
 {
   "models": [
     {
-      "id": "game-boy",
-      "name": "Game Boy (Default) 👀📡",
-      "gas_brake": "True",
-      "poseless": "True",
-      "velocity": "True"
+      "id": "north-dakota",
+      "name": "North Dakota (Default) 👀📡"
     },
     {
       "id": "certified-herbalist",
@@ -18,10 +15,6 @@
     {
       "id": "los-angeles",
       "name": "Los Angeles 🗺️👀📡"
-    },
-    {
-      "id": "north-dakota",
-      "name": "North Dakota 👀📡"
     },
     {
       "id": "notre-dame",
@@ -39,14 +32,7 @@
     {
       "id": "secret-good-openpilot",
       "name": "SecretGoodOpenpilot 👀📡",
-      "gas_brake": "True",
-      "poseless": "True",
-      "velocity": "True"
-    },
-    {
-      "id": "tomb-raider",
-      "name": "Tomb Raider 👀📡",
-      "poseless": "True",
+      "experimental": "True",
       "velocity": "True"
     },
     {
