@@ -12,7 +12,8 @@
     },
     {
       "id": "dissolved-oxygen",
-      "name": "Dissolved Oxygen 👀📡"
+      "name": "Dissolved Oxygen 👀📡",
+      "experimental": "True"
     },
     {
       "id": "duck-amigo",
