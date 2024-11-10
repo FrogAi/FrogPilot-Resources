@@ -16,6 +16,10 @@
       "experimental": "True"
     },
     {
+      "id": "dragon-rider",
+      "name": "Dragon Rider 👀📡"
+    },
+    {
       "id": "duck-amigo",
       "name": "Duck Amigo 🗺️👀📡",
       "classic_model": "True"
