@@ -11,18 +11,19 @@
       "classic_model": "True"
     },
     {
-      "id": "dissolved-oxygen",
-      "name": "Dissolved Oxygen 👀📡",
-      "experimental": "True"
-    },
-    {
       "id": "dragon-rider",
-      "name": "Dragon Rider 👀📡"
+      "name": "Dragon Rider 👀📡",
+      "experimental": "True"
     },
     {
       "id": "duck-amigo",
       "name": "Duck Amigo 🗺️👀📡",
       "classic_model": "True"
+    },
+    {
+      "id": "last-horizon",
+      "name": "Last Horizon 👀📡",
+      "experimental": "True"
     },
     {
       "id": "los-angeles",
@@ -47,7 +48,8 @@
     },
     {
       "id": "secret-good-openpilot",
-      "name": "SecretGoodOpenpilot 👀📡"
+      "name": "SecretGoodOpenpilot 👀📡",
+      "experimental": "True"
     },
     {
       "id": "wd-40",
