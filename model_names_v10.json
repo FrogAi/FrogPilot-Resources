@@ -26,6 +26,11 @@
       "classic_model": "True"
     },
     {
+      "id": "frankenweenie",
+      "name": "Frankenweenie 👀📡",
+      "experimental": "True"
+    },
+    {
       "id": "last-horizon",
       "name": "Last Horizon 👀📡",
       "experimental": "True"
