@@ -46,6 +46,11 @@
       "classic_model": "True"
     },
     {
+      "id": "playstation",
+      "name": "PlayStation® 👀📡",
+      "experimental": "True"
+    },
+    {
       "id": "radical-turtle",
       "name": "Radical Turtle 👀",
       "experimental": "True",
