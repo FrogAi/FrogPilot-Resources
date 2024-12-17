@@ -3,12 +3,13 @@
     {
       "id": "north-dakota",
       "name": "North Dakota (Default) 👀📡",
-      "classic_model": "True"
+      "classic_model": "True",
     },
     {
       "id": "alabama",
       "name": "Alabama 👀📡",
-      "experimental": "True"
+      "experimental": "True",
+      "desired_curvature": "True"
     },
     {
       "id": "certified-herbalist",
@@ -18,7 +19,8 @@
     {
       "id": "dragon-rider",
       "name": "Dragon Rider 👀📡",
-      "experimental": "True"
+      "experimental": "True",
+      "desired_curvature": "True"
     },
     {
       "id": "duck-amigo",
@@ -28,17 +30,26 @@
     {
       "id": "frankenweenie",
       "name": "Frankenweenie 👀📡",
-      "experimental": "True"
+      "experimental": "True",
+      "desired_curvature": "True"
     },
     {
       "id": "last-horizon",
       "name": "Last Horizon 👀📡",
-      "experimental": "True"
+      "experimental": "True",
+      "desired_curvature": "True"
     },
     {
       "id": "los-angeles",
       "name": "Los Angeles 🗺️👀📡",
       "classic_model": "True"
+    },
+    {
+      "id": "north-america",
+      "name": "North America 👀📡",
+      "clipped_curvature": "True",
+      "experimental": "True",
+      "desired_curvature": "True"
     },
     {
       "id": "notre-dame",
@@ -48,12 +59,15 @@
     {
       "id": "null-pointer",
       "name": "Null Pointer 👀📡",
-      "experimental": "True"
+      "clipped_curvature": "True",
+      "experimental": "True",
+      "desired_curvature": "True"
     },
     {
       "id": "postal-service",
       "name": "Postal Service 👀📡",
-      "experimental": "True"
+      "experimental": "True",
+      "desired_curvature": "True"
     },
     {
       "id": "radical-turtle",
@@ -69,7 +83,8 @@
     {
       "id": "secret-good-openpilot",
       "name": "SecretGoodOpenpilot 👀📡",
-      "experimental": "True"
+      "experimental": "True",
+      "desired_curvature": "True"
     },
     {
       "id": "wd-40",
