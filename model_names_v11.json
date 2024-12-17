@@ -48,8 +48,7 @@
       "id": "north-america",
       "name": "North America 👀📡",
       "clipped_curvature": "True",
-      "experimental": "True",
-      "desired_curvature": "True"
+      "experimental": "True"
     },
     {
       "id": "notre-dame",
