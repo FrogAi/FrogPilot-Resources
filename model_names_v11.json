@@ -1,10 +1,10 @@
 {
   "models": [
     {
-      "id": "north-dakota",
-      "name": "North Dakota (Default) 👀📡",
+      "id": "wd-40",
+      "name": "WD-40 (Default) 👀📡",
       "classic_model": "True"
-    },
+    }
     {
       "id": "alabama",
       "name": "Alabama 👀📡",
@@ -49,6 +49,11 @@
       "name": "North America 👀📡",
       "clipped_curvature": "True",
       "experimental": "True"
+    },
+    {
+      "id": "north-dakota",
+      "name": "North Dakota 👀📡",
+      "classic_model": "True"
     },
     {
       "id": "notre-dame",
