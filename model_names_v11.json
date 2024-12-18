@@ -89,11 +89,6 @@
       "name": "SecretGoodOpenpilot 👀📡",
       "experimental": "True",
       "desired_curvature": "True"
-    },
-    {
-      "id": "wd-40",
-      "name": "WD-40 👀📡",
-      "classic_model": "True"
     }
   ]
 }
