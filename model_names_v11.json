@@ -51,6 +51,12 @@
       "experimental": "True"
     },
     {
+      "id": "national-public-radio",
+      "name": "National Public Radio 👀📡",
+      "clipped_curvature": "True",
+      "experimental": "True"
+    },
+    {
       "id": "north-dakota",
       "name": "North Dakota 👀📡",
       "classic_model": "True"
