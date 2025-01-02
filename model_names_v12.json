@@ -1,0 +1,105 @@
+{
+  "models": [
+    {
+      "id": "wd-40",
+      "name": "WD-40 (Default) 👀📡",
+      "classic_model": "True"
+    },
+    {
+      "id": "alabama",
+      "name": "Alabama 👀📡",
+      "experimental": "True",
+      "desired_curvature": "True"
+    },
+    {
+      "id": "certified-herbalist",
+      "name": "Certified Herbalist 🗺️👀📡",
+      "classic_model": "True"
+    },
+    {
+      "id": "dragon-rider",
+      "name": "Dragon Rider 👀📡",
+      "experimental": "True",
+      "desired_curvature": "True"
+    },
+    {
+      "id": "duck-amigo",
+      "name": "Duck Amigo 🗺️👀📡",
+      "classic_model": "True"
+    },
+    {
+      "id": "frankenfrog",
+      "name": "Frankenfrog 👀📡",
+      "experimental": "True"
+    },
+    {
+      "id": "frankenweenie",
+      "name": "Frankenweenie 👀📡",
+      "experimental": "True",
+      "desired_curvature": "True"
+    },
+    {
+      "id": "last-horizon",
+      "name": "Last Horizon 👀📡",
+      "experimental": "True",
+      "desired_curvature": "True"
+    },
+    {
+      "id": "los-angeles",
+      "name": "Los Angeles 🗺️👀📡",
+      "classic_model": "True"
+    },
+    {
+      "id": "north-america",
+      "name": "North America 👀📡",
+      "clipped_curvature": "True",
+      "experimental": "True"
+    },
+    {
+      "id": "national-public-radio",
+      "name": "National Public Radio 👀📡",
+      "clipped_curvature": "True",
+      "experimental": "True"
+    },
+    {
+      "id": "north-dakota",
+      "name": "North Dakota 👀📡",
+      "classic_model": "True"
+    },
+    {
+      "id": "notre-dame",
+      "name": "Notre Dame 👀📡",
+      "classic_model": "True"
+    },
+    {
+      "id": "null-pointer",
+      "name": "Null Pointer 👀📡",
+      "clipped_curvature": "True",
+      "experimental": "True",
+      "desired_curvature": "True"
+    },
+    {
+      "id": "postal-service",
+      "name": "Postal Service 👀📡",
+      "experimental": "True",
+      "desired_curvature": "True"
+    },
+    {
+      "id": "radical-turtle",
+      "name": "Radical Turtle 👀",
+      "experimental": "True",
+      "classic_model": "True"
+    },
+    {
+      "id": "recertified-herbalist",
+      "name": "Recertified Herbalist 🗺️👀📡",
+      "classic_model": "True"
+    },
+    {
+      "id": "secret-good-openpilot",
+      "name": "SecretGoodOpenpilot 👀📡",
+      "experimental": "True",
+      "desired_curvature": "True"
+    }
+  ]
+}
