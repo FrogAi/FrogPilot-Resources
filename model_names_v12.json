@@ -54,13 +54,13 @@
       "id": "north-america",
       "name": "North America 👀📡",
       "experimental": "True"
-      "model_version": "5"
+      "model_version": "6"
     },
     {
       "id": "national-public-radio",
       "name": "National Public Radio 👀📡",
       "experimental": "True"
-      "model_version": "5"
+      "model_version": "6"
     },
     {
       "id": "north-dakota",
