@@ -9,7 +9,7 @@
       "id": "alabama",
       "name": "Alabama 👀📡",
       "experimental": "True",
-      "model_version": "3"
+      "model_version": "4"
     },
     {
       "id": "certified-herbalist",
@@ -20,7 +20,7 @@
       "id": "dragon-rider",
       "name": "Dragon Rider 👀📡",
       "experimental": "True",
-      "model_version": "3"
+      "model_version": "4"
     },
     {
       "id": "duck-amigo",
@@ -38,13 +38,13 @@
       "id": "frankenweenie",
       "name": "Frankenweenie 👀📡",
       "experimental": "True",
-      "model_version": "3"
+      "model_version": "4"
     },
     {
       "id": "last-horizon",
       "name": "Last Horizon 👀📡",
       "experimental": "True",
-      "model_version": "3"
+      "model_version": "4"
     },
     {
       "id": "los-angeles",
@@ -61,7 +61,7 @@
       "id": "national-public-radio",
       "name": "National Public Radio 👀📡",
       "experimental": "True"
-      "model_version": "5"
+      "model_version": "6"
     },
     {
       "id": "north-dakota",
@@ -77,19 +77,19 @@
       "id": "null-pointer",
       "name": "Null Pointer 👀📡",
       "experimental": "True",
-      "model_version": "4"
+      "model_version": "5"
     },
     {
       "id": "postal-service",
       "name": "Postal Service 👀📡",
       "experimental": "True",
-      "model_version": "3"
+      "model_version": "4"
     },
     {
       "id": "radical-turtle",
       "name": "Radical Turtle 👀",
       "experimental": "True",
-      "model_version": "2"
+      "model_version": "3"
     },
     {
       "id": "recertified-herbalist",
@@ -100,7 +100,7 @@
       "id": "secret-good-openpilot",
       "name": "SecretGoodOpenpilot 👀📡",
       "experimental": "True",
-      "model_version": "3"
+      "model_version": "4"
     }
   ]
 }
