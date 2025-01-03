@@ -3,103 +3,104 @@
     {
       "id": "wd-40",
       "name": "WD-40 (Default) 👀📡",
-      "classic_model": "True"
+      "model_version": "2"
     },
     {
       "id": "alabama",
       "name": "Alabama 👀📡",
       "experimental": "True",
-      "desired_curvature": "True"
+      "model_version": "3"
     },
     {
       "id": "certified-herbalist",
       "name": "Certified Herbalist 🗺️👀📡",
-      "classic_model": "True"
+      "model_version": "1"
     },
     {
       "id": "dragon-rider",
       "name": "Dragon Rider 👀📡",
       "experimental": "True",
-      "desired_curvature": "True"
+      "model_version": "3"
     },
     {
       "id": "duck-amigo",
       "name": "Duck Amigo 🗺️👀📡",
       "classic_model": "True"
+      "model_version": "1"
     },
     {
       "id": "frankenfrog",
       "name": "Frankenfrog 👀📡",
       "experimental": "True"
+      "model_version": "0"
     },
     {
       "id": "frankenweenie",
       "name": "Frankenweenie 👀📡",
       "experimental": "True",
-      "desired_curvature": "True"
+      "model_version": "3"
     },
     {
       "id": "last-horizon",
       "name": "Last Horizon 👀📡",
       "experimental": "True",
-      "desired_curvature": "True"
+      "model_version": "3"
     },
     {
       "id": "los-angeles",
       "name": "Los Angeles 🗺️👀📡",
-      "classic_model": "True"
+      "model_version": "1"
     },
     {
       "id": "north-america",
       "name": "North America 👀📡",
-      "clipped_curvature": "True",
       "experimental": "True"
+      "model_version": "4"
     },
     {
       "id": "national-public-radio",
       "name": "National Public Radio 👀📡",
-      "clipped_curvature": "True",
       "experimental": "True"
+      "model_version": "4"
     },
     {
       "id": "north-dakota",
       "name": "North Dakota 👀📡",
-      "classic_model": "True"
+      "model_version": "2"
     },
     {
       "id": "notre-dame",
       "name": "Notre Dame 👀📡",
-      "classic_model": "True"
+      "model_version": "2"
     },
     {
       "id": "null-pointer",
       "name": "Null Pointer 👀📡",
-      "clipped_curvature": "True",
       "experimental": "True",
-      "desired_curvature": "True"
+      "model_version": "4"
     },
     {
       "id": "postal-service",
       "name": "Postal Service 👀📡",
       "experimental": "True",
-      "desired_curvature": "True"
+      "model_version": "3"
     },
     {
       "id": "radical-turtle",
       "name": "Radical Turtle 👀",
       "experimental": "True",
-      "classic_model": "True"
+      "model_version": "2"
     },
     {
       "id": "recertified-herbalist",
       "name": "Recertified Herbalist 🗺️👀📡",
-      "classic_model": "True"
+      "model_version": "1"
     },
     {
       "id": "secret-good-openpilot",
       "name": "SecretGoodOpenpilot 👀📡",
       "experimental": "True",
-      "desired_curvature": "True"
+      "model_version": "3"
     }
   ]
 }
