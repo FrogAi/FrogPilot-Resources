@@ -30,7 +30,7 @@
     {
       "id": "frankenfrog",
       "name": "Frankenfrog 👀📡",
-      "experimental": "True"
+      "experimental": "True",
       "version": "0"
     },
     {
@@ -53,13 +53,13 @@
     {
       "id": "north-america",
       "name": "North America 👀📡",
-      "experimental": "True"
+      "experimental": "True",
       "version": "6"
     },
     {
       "id": "national-public-radio",
       "name": "National Public Radio 👀📡",
-      "experimental": "True"
+      "experimental": "True",
       "version": "6"
     },
     {
