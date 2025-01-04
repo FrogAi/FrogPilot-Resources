@@ -3,103 +3,103 @@
     {
       "id": "wd-40",
       "name": "WD-40 (Default) 👀📡",
-      "version": "2"
+      "version": "v2"
     },
     {
       "id": "alabama",
       "name": "Alabama 👀📡",
       "experimental": "True",
-      "version": "4"
+      "version": "v4"
     },
     {
       "id": "certified-herbalist",
       "name": "Certified Herbalist 🗺️👀📡",
-      "version": "1"
+      "version": "v1"
     },
     {
       "id": "dragon-rider",
       "name": "Dragon Rider 👀📡",
       "experimental": "True",
-      "version": "4"
+      "version": "v4"
     },
     {
       "id": "duck-amigo",
       "name": "Duck Amigo 🗺️👀📡",
-      "version": "1"
+      "version": "v1"
     },
     {
       "id": "frankenfrog",
       "name": "Frankenfrog 👀📡",
       "experimental": "True",
-      "version": "0"
+      "version": "v0"
     },
     {
       "id": "frankenweenie",
       "name": "Frankenweenie 👀📡",
       "experimental": "True",
-      "version": "4"
+      "version": "v4"
     },
     {
       "id": "last-horizon",
       "name": "Last Horizon 👀📡",
       "experimental": "True",
-      "version": "4"
+      "version": "v4"
     },
     {
       "id": "los-angeles",
       "name": "Los Angeles 🗺️👀📡",
-      "version": "1"
+      "version": "v1"
     },
     {
       "id": "north-america",
       "name": "North America 👀📡",
       "experimental": "True",
-      "version": "6"
+      "version": "v6"
     },
     {
       "id": "national-public-radio",
       "name": "National Public Radio 👀📡",
       "experimental": "True",
-      "version": "6"
+      "version": "v6"
     },
     {
       "id": "north-dakota",
       "name": "North Dakota 👀📡",
-      "version": "2"
+      "version": "v2"
     },
     {
       "id": "notre-dame",
       "name": "Notre Dame 👀📡",
-      "version": "2"
+      "version": "v2"
     },
     {
       "id": "null-pointer",
       "name": "Null Pointer 👀📡",
       "experimental": "True",
-      "version": "5"
+      "version": "v5"
     },
     {
       "id": "postal-service",
       "name": "Postal Service 👀📡",
       "experimental": "True",
-      "version": "4"
+      "version": "v4"
     },
     {
       "id": "radical-turtle",
       "name": "Radical Turtle 👀",
       "experimental": "True",
-      "version": "3"
+      "version": "v3"
     },
     {
       "id": "recertified-herbalist",
       "name": "Recertified Herbalist 🗺️👀📡",
-      "version": "1"
+      "version": "v1"
     },
     {
       "id": "secret-good-openpilot",
       "name": "SecretGoodOpenpilot 👀📡",
       "experimental": "True",
-      "version": "4"
+      "version": "v4"
     }
   ]
 }
