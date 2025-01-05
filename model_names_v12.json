@@ -28,12 +28,6 @@
       "version": "v1"
     },
     {
-      "id": "frankenfrog",
-      "name": "Frankenfrog 👀📡",
-      "experimental": "True",
-      "version": "v0"
-    },
-    {
       "id": "frankenweenie",
       "name": "Frankenweenie 👀📡",
       "experimental": "True",
