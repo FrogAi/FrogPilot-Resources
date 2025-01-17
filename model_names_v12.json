@@ -31,7 +31,7 @@
       "id": "frankenweenie",
       "name": "Frankenweenie 👀📡",
       "experimental": "True",
-      "version": "v6"
+      "version": "v5"
     },
     {
       "id": "last-horizon",
@@ -48,13 +48,13 @@
       "id": "north-america",
       "name": "North America 👀📡",
       "experimental": "True",
-      "version": "v7"
+      "version": "v6"
     },
     {
       "id": "national-public-radio",
       "name": "National Public Radio 👀📡",
       "experimental": "True",
-      "version": "v7"
+      "version": "v6"
     },
     {
       "id": "north-dakota",
@@ -70,7 +70,7 @@
       "id": "null-pointer",
       "name": "Null Pointer 👀📡",
       "experimental": "True",
-      "version": "v6"
+      "version": "v5"
     },
     {
       "id": "postal-service",
