@@ -1,46 +1,50 @@
-from pydub import AudioSegment
+import numpy as np
+import os
+import pyloudnorm as pyln
+import resampy
+import shutil
+import soundfile as sf
+
 from tkinter import Tk, filedialog
 
-import os
-import shutil
+TARGET_LUFS = -15.0
+TARGET_RATE = 48000
 
-TARGET_DBFS = -14.0
+def loudness_normalize(input_file):
+  data, rate = sf.read(input_file)
+  if data.ndim > 1:
+    data = data.mean(axis=1)
 
-def match_target_amplitude(sound, target_dBFS):
-  change_in_dBFS = target_dBFS - sound.dBFS
-  return sound.apply_gain(change_in_dBFS)
+  meter = pyln.Meter(rate)
+  loudness = meter.integrated_loudness(data)
+  data = pyln.normalize.loudness(data, loudness, TARGET_LUFS)
 
-def convert_audio(input_file):
-  audio = AudioSegment.from_file(input_file)
+  peak = np.abs(data).max()
+  if peak > 1.0:
+    data /= peak
 
-  base, ext = os.path.splitext(input_file)
-  backup_file = base + "_original" + ext
+  if rate != TARGET_RATE:
+    data = resampy.resample(data, rate, TARGET_RATE)
 
-  if not os.path.exists(backup_file):
-    shutil.copy2(input_file, backup_file)
+  sf.write(input_file, np.clip(data, -1.0, 1.0).astype(np.float32), TARGET_RATE, subtype='PCM_16')
 
-  audio = audio.set_channels(1)
-  audio = audio.set_sample_width(2)
-  audio = audio.set_frame_rate(48000)
+def backup_file(path):
+  backup = f"{os.path.splitext(path)[0]}_original{os.path.splitext(path)[1]}"
+  if not os.path.exists(backup):
+    shutil.copy2(path, backup)
 
-  normalized_audio = match_target_amplitude(audio, TARGET_DBFS)
-  normalized_audio.export(input_file, format="wav")
+def process_file(path):
+  backup_file(path)
+  loudness_normalize(path)
+  print(f"Normalized {path} to {TARGET_LUFS} LUFS.")
 
 def main():
   root = Tk()
   root.withdraw()
 
-  input_files = filedialog.askopenfilenames(
-    title="Select Audio Files",
-    filetypes=[("Audio Files", "*.mp3 *.wav *.ogg *.flac *.aac *.m4a")]
-  )
-
-  if input_files:
-    for input_file in input_files:
-      convert_audio(input_file)
-      print(f"Converted and overwrote {input_file} successfully.")
-  else:
-    print("No files selected.")
+  paths = filedialog.askopenfilenames(title="Select Audio Files", filetypes=[("Audio Files", "*.aac *.flac *.m4a *.mp3 *.ogg *.wav")])
+  for path in paths:
+    process_file(path)
 
 if __name__ == "__main__":
   main()
