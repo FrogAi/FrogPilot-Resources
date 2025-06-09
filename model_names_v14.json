@@ -28,15 +28,15 @@
       "version": "v1"
     },
     {
-      "id": "filet-o-fish",
-      "name": "Filet-o-Fish 👀📡",
-      "version": "v7"
-    },
-    {
       "id": "frankenweenie",
       "name": "Frankenweenie 👀📡",
       "experimental": "True",
       "version": "v5"
+    },
+    {
+      "id": "kerrygold",
+      "name": "Kerrygold 👀📡",
+      "version": "v7"
     },
     {
       "id": "last-horizon",
