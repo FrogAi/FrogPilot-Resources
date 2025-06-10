@@ -5,7 +5,7 @@ USERNAME = "comma"
 
 RUNNER_DIR = "/data/github-runner"
 RUNNER_TOKEN = ""
-RUNNER_URL = "https://github.com/FrogAi/FrogPilot"
+RUNNER_URL = "https://github.com/RDeLong91/FrogPilot"
 RUNNER_VERSION = "2.316.0"
 
 RUNNER_START_CMD = (
