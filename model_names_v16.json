@@ -8,7 +8,6 @@
     {
       "id": "alabama",
       "name": "Alabama 👀📡",
-      "experimental": "True",
       "version": "v5"
     },
     {
@@ -19,7 +18,6 @@
     {
       "id": "dragon-rider",
       "name": "Dragon Rider 👀📡",
-      "experimental": "True",
       "version": "v5"
     },
     {
@@ -30,13 +28,11 @@
     {
       "id": "frankenweenie",
       "name": "Frankenweenie 👀📡",
-      "experimental": "True",
       "version": "v5"
     },
     {
       "id": "last-horizon",
       "name": "Last Horizon 👀📡",
-      "experimental": "True",
       "version": "v5"
     },
     {
@@ -47,13 +43,11 @@
     {
       "id": "north-america",
       "name": "North America 👀📡",
-      "experimental": "True",
       "version": "v6"
     },
     {
       "id": "national-public-radio",
       "name": "National Public Radio 👀📡",
-      "experimental": "True",
       "version": "v6"
     },
     {
@@ -69,19 +63,16 @@
     {
       "id": "null-pointer",
       "name": "Null Pointer 👀📡",
-      "experimental": "True",
       "version": "v5"
     },
     {
       "id": "postal-service",
       "name": "Postal Service 👀📡",
-      "experimental": "True",
       "version": "v5"
     },
     {
       "id": "radical-turtle",
       "name": "Radical Turtle 👀",
-      "experimental": "True",
       "version": "v3"
     },
     {
@@ -92,7 +83,6 @@
     {
       "id": "secret-good-openpilot",
       "name": "SecretGoodOpenpilot 👀📡",
-      "experimental": "True",
       "version": "v5"
     },
     {
