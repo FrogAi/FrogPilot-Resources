@@ -56,13 +56,13 @@
       "version": "v1"
     },
     {
-      "id": "north-america",
-      "name": "North America 👀📡",
+      "id": "national-public-radio",
+      "name": "National Public Radio 👀📡",
       "version": "v6"
     },
     {
-      "id": "national-public-radio",
-      "name": "National Public Radio 👀📡",
+      "id": "north-america",
+      "name": "North America 👀📡",
       "version": "v6"
     },
     {
@@ -74,6 +74,11 @@
       "id": "notre-dame",
       "name": "Notre Dame 👀📡",
       "version": "v4"
+    },
+    {
+      "id": "not-too-shabby",
+      "name": "Not Too Shabby 👀📡",
+      "version": "v7"
     },
     {
       "id": "null-pointer",
