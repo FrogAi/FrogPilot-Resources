@@ -28,7 +28,7 @@
     {
       "id": "filet-o-fish",
       "name": "Filet o Fish 👀📡",
-      "version": "v7"
+      "version": "v8"
     },
     {
       "id": "frankenweenie",
@@ -38,7 +38,7 @@
     {
       "id": "kerrygold",
       "name": "Kerrygold 👀📡",
-      "version": "v7"
+      "version": "v8"
     },
     {
       "id": "last-horizon",
@@ -48,7 +48,7 @@
     {
       "id": "liquid-crystal",
       "name": "Liquid Crystal 👀📡",
-      "version": "v7"
+      "version": "v8"
     },
     {
       "id": "los-angeles",
@@ -103,22 +103,22 @@
     {
       "id": "space-lab",
       "name": "Space Lab 👀📡",
-      "version": "v7"
+      "version": "v8"
     },
     {
       "id": "tomb-raider",
       "name": "Tomb Raider 👀📡",
-      "version": "v7"
+      "version": "v8"
     },
     {
       "id": "vegan-filet-o-fish",
       "name": "Vegan Filet o Fish 👀📡",
-      "version": "v7"
+      "version": "v8"
     },
     {
       "id": "vegetarian-filet-o-fish",
       "name": "Vegetarian Filet o Fish 👀📡",
-      "version": "v7"
+      "version": "v8"
     }
   ]
 }
