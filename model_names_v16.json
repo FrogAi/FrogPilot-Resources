@@ -27,7 +27,7 @@
     },
     {
       "id": "filet-o-fish",
-      "name": "Filet o Fish 👀📡",
+      "name": "Filet-O-Fish 👀📡",
       "version": "v8"
     },
     {
@@ -117,12 +117,12 @@
     },
     {
       "id": "vegan-filet-o-fish",
-      "name": "Vegan Filet o Fish 👀📡",
+      "name": "Vegan Filet-O-Fish 👀📡",
       "version": "v8"
     },
     {
       "id": "vegetarian-filet-o-fish",
-      "name": "Vegetarian Filet o Fish 👀📡",
+      "name": "Vegetarian Filet-O-Fish 👀📡",
       "version": "v8"
     }
   ]
