@@ -1,9 +1,9 @@
 {
   "models": [
     {
-      "id": "wd-40",
-      "name": "WD-40 (Default) 👀📡",
-      "version": "v2"
+      "id": "steam-powered",
+      "name": "Steam Powered (Default) 👀📡",
+      "version": "v9"
     },
     {
       "id": "alabama",
@@ -111,11 +111,6 @@
       "version": "v8"
     },
     {
-      "id": "steam-powered",
-      "name": "Steam Powered 👀📡",
-      "version": "v9"
-    },
-    {
       "id": "tomb-raider",
       "name": "Tomb Raider 👀📡",
       "version": "v8"
@@ -129,6 +124,11 @@
       "id": "vegetarian-filet-o-fish",
       "name": "Vegetarian Filet-O-Fish 👀📡",
       "version": "v7"
+    },
+    {
+      "id": "wd-40",
+      "name": "WD-40 👀📡",
+      "version": "v2"
     }
   ]
 }
