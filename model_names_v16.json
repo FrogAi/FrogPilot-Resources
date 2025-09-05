@@ -36,6 +36,11 @@
       "version": "v7"
     },
     {
+      "id": "firehose",
+      "name": "Firehose 👀📡",
+      "version": "v9"
+    },
+    {
       "id": "frankenweenie",
       "name": "Frankenweenie 👀📡",
       "version": "v5"
