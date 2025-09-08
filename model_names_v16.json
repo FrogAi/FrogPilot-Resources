@@ -1,6 +1,11 @@
 {
   "models": [
     {
+      "id": "firehose",
+      "name": "Firehose (Default) 👀📡",
+      "version": "v9"
+    },
+    {
       "id": "steam-powered",
       "name": "Steam Powered (Default) 👀📡",
       "version": "v9"
@@ -34,11 +39,6 @@
       "id": "filet-o-fish",
       "name": "Filet-O-Fish 👀📡",
       "version": "v7"
-    },
-    {
-      "id": "firehose",
-      "name": "Firehose 👀📡",
-      "version": "v9"
     },
     {
       "id": "frankenweenie",
@@ -114,6 +114,11 @@
       "id": "space-lab",
       "name": "Space Lab 👀📡",
       "version": "v8"
+    },
+    {
+      "id": "steam-powered",
+      "name": "Steam Powered 👀📡",
+      "version": "v9"
     },
     {
       "id": "tomb-raider",
