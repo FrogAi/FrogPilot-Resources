@@ -2,27 +2,32 @@
   "models": [
     {
       "id": "firehose",
-      "name": "Firehose (Default) 👀📡",
+      "name": "Firehose (Default)",
       "version": "v9"
     },
     {
       "id": "down-to-ride",
-      "name": "Down to Ride 👀📡",
+      "name": "Down to Ride",
       "version": "v8"
     },
     {
       "id": "nevada",
-      "name": "Nevada 👀📡",
+      "name": "Nevada",
+      "version": "v9"
+    },
+    {
+      "id": "north-nevada",
+      "name": "North Nevada",
       "version": "v9"
     },
     {
       "id": "space-lab",
-      "name": "Space Lab 👀📡",
+      "name": "Space Lab",
       "version": "v8"
     },
     {
       "id": "steam-powered",
-      "name": "Steam Powered 👀📡",
+      "name": "Steam Powered",
       "version": "v9"
     }
   ]
