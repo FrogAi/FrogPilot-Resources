@@ -1,0 +1,29 @@
+{
+  "models": [
+    {
+      "id": "firehose",
+      "name": "Firehose (Default) 👀📡",
+      "version": "v9"
+    },
+    {
+      "id": "down-to-ride",
+      "name": "Down to Ride 👀📡",
+      "version": "v8"
+    },
+    {
+      "id": "nevada",
+      "name": "Nevada 👀📡",
+      "version": "v9"
+    },
+    {
+      "id": "space-lab",
+      "name": "Space Lab 👀📡",
+      "version": "v8"
+    },
+    {
+      "id": "steam-powered",
+      "name": "Steam Powered 👀📡",
+      "version": "v9"
+    }
+  ]
+}
