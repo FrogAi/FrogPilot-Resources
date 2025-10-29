@@ -1,14 +1,14 @@
 {
   "models": [
     {
-      "id": "firehose",
-      "name": "Firehose (Default)",
-      "version": "v9"
-    },
-    {
       "id": "down-to-ride",
       "name": "Down to Ride",
       "version": "v8"
+    },
+    {
+      "id": "firehose",
+      "name": "Firehose",
+      "version": "v9"
     },
     {
       "id": "nevada",
