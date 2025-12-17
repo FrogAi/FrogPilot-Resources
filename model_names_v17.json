@@ -1,34 +1,159 @@
 {
   "models": [
     {
+      "id": "dark-souls",
+      "name": "Dark Souls (Default) 👀📡",
+      "version": "v9"
+    },
+    {
+      "id": "alabama",
+      "name": "Alabama 👀📡",
+      "version": "v5"
+    },
+    {
+      "id": "certified-herbalist",
+      "name": "Certified Herbalist 🗺️👀📡",
+      "version": "v1"
+    },
+    {
       "id": "down-to-ride",
-      "name": "Down to Ride",
+      "name": "Down to Ride 👀📡",
       "version": "v8"
     },
     {
+      "id": "dragon-rider",
+      "name": "Dragon Rider 👀📡",
+      "version": "v5"
+    },
+    {
+      "id": "duck-amigo",
+      "name": "Duck Amigo 🗺️👀📡",
+      "version": "v1"
+    },
+    {
+      "id": "filet-o-fish",
+      "name": "Filet-O-Fish 👀📡",
+      "version": "v7"
+    },
+    {
       "id": "firehose",
-      "name": "Firehose",
+      "name": "Firehose 👀📡",
       "version": "v9"
+    },
+    {
+      "id": "frankenweenie",
+      "name": "Frankenweenie 👀📡",
+      "version": "v5"
+    },
+    {
+      "id": "kerrygold",
+      "name": "Kerrygold 👀📡",
+      "version": "v7"
+    },
+    {
+      "id": "last-horizon",
+      "name": "Last Horizon 👀📡",
+      "version": "v5"
+    },
+    {
+      "id": "liquid-crystal",
+      "name": "Liquid Crystal 👀📡",
+      "version": "v7"
+    },
+    {
+      "id": "los-angeles",
+      "name": "Los Angeles 🗺️👀📡",
+      "version": "v1"
+    },
+    {
+      "id": "national-public-radio",
+      "name": "National Public Radio 👀📡",
+      "version": "v6"
     },
     {
       "id": "nevada",
-      "name": "Nevada",
+      "name": "Nevada 👀📡",
       "version": "v9"
+    },
+    {
+      "id": "north-america",
+      "name": "North America 👀📡",
+      "version": "v6"
+    },
+    {
+      "id": "north-dakota",
+      "name": "North Dakota 👀📡",
+      "version": "v2"
     },
     {
       "id": "north-nevada",
-      "name": "North Nevada",
+      "name": "North Nevada 👀📡",
       "version": "v9"
     },
     {
+      "id": "notre-dame",
+      "name": "Notre Dame 👀📡",
+      "version": "v4"
+    },
+    {
+      "id": "null-pointer",
+      "name": "Null Pointer 👀📡",
+      "version": "v5"
+    },
+    {
+      "id": "postal-service",
+      "name": "Postal Service 👀📡",
+      "version": "v5"
+    },
+    {
+      "id": "radical-turtle",
+      "name": "Radical Turtle 👀",
+      "version": "v3"
+    },
+    {
+      "id": "recertified-herbalist",
+      "name": "Recertified Herbalist 🗺️👀📡",
+      "version": "v1"
+    },
+    {
+      "id": "secret-good-openpilot",
+      "name": "SecretGoodOpenpilot 👀📡",
+      "version": "v5"
+    },
+    {
       "id": "space-lab",
-      "name": "Space Lab",
+      "name": "Space Lab 👀📡",
       "version": "v8"
     },
     {
       "id": "steam-powered",
-      "name": "Steam Powered",
+      "name": "Steam Powered 👀📡",
       "version": "v9"
+    },
+    {
+      "id": "the-cool-peoples-model",
+      "name": "The Cool People's Model 👀📡",
+      "version": "v9"
+    },
+    {
+      "id": "tomb-raider",
+      "name": "Tomb Raider 👀📡",
+      "version": "v8"
+    },
+    {
+      "id": "vegan-filet-o-fish",
+      "name": "Vegan Filet-O-Fish 👀📡",
+      "version": "v7"
+    },
+    {
+      "id": "vegetarian-filet-o-fish",
+      "name": "Vegetarian Filet-O-Fish 👀📡",
+      "version": "v7"
+    },
+    {
+      "id": "wd-40",
+      "name": "WD-40 👀📡",
+      "version": "v2"
     }
   ]
 }
