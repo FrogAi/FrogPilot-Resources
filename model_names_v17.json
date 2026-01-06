@@ -66,6 +66,11 @@
       "version": "v1"
     },
     {
+      "id": "macrostiff",
+      "name": "MacroStiff 👀📡",
+      "version": "v9"
+    },
+    {
       "id": "national-public-radio",
       "name": "National Public Radio 👀📡",
       "version": "v6"
