@@ -121,6 +121,11 @@
       "version": "v1"
     },
     {
+      "id": "sc-driving",
+      "name": "SC driving 👀📡",
+      "version": "v9"
+    },
+    {
       "id": "secret-good-openpilot",
       "name": "SecretGoodOpenpilot 👀📡",
       "version": "v5"
