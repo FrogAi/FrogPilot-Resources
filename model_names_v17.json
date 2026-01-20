@@ -164,6 +164,11 @@
       "id": "wd-40",
       "name": "WD-40 👀📡",
       "version": "v2"
+    },
+    {
+      "id": "wmi-model",
+      "name": "WMI model 👀📡",
+      "version": "v9"
     }
   ]
 }
