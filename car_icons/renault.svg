@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="icon-title icon-desc">
+  <title id="icon-title">Renault</title>
+  <desc id="icon-desc">
+    FrogPilot car icon: the outlined Renault double diamond, introduced in 2021.
+  </desc>
+  <path d="M841.93 500 602.43 50h-68.29l-239.5 450 154.15 289.62 34.14-64.15-120-225.47 205.36-385.85L773.64 500l-239.5 450h68.29Zm-683.86 0 239.5 450h68.29l239.5-450-154.15-289.62-34.14 64.15 120 225.47-205.36 385.85L226.36 500l239.5-450h-68.29Z" fill="#000"/>
+</svg>
