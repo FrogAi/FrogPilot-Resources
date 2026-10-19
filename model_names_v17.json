@@ -6,6 +6,7 @@
       "version": "v9"
     },
     {
+      "desired_curvature_head": true,
       "id": "alabama",
       "name": "Alabama 👀📡",
       "version": "v5"
@@ -17,6 +18,7 @@
     },
     {
       "id": "cd210-model",
+      "lat_smooth_seconds": 0.0,
       "name": "CD210 model 👀📡",
       "version": "v9"
     },
@@ -26,6 +28,7 @@
       "version": "v8"
     },
     {
+      "desired_curvature_head": true,
       "id": "dragon-rider",
       "name": "Dragon Rider 👀📡",
       "version": "v5"
@@ -37,6 +40,7 @@
     },
     {
       "id": "filet-o-fish",
+      "lat_smooth_seconds": 0.0,
       "name": "Filet-O-Fish 👀📡",
       "version": "v7"
     },
@@ -52,16 +56,19 @@
     },
     {
       "id": "kerrygold",
+      "lat_smooth_seconds": 0.0,
       "name": "Kerrygold 👀📡",
       "version": "v7"
     },
     {
+      "desired_curvature_head": true,
       "id": "last-horizon",
       "name": "Last Horizon 👀📡",
       "version": "v5"
     },
     {
       "id": "liquid-crystal",
+      "lat_smooth_seconds": 0.0,
       "name": "Liquid Crystal 👀📡",
       "version": "v7"
     },
@@ -112,10 +119,12 @@
     },
     {
       "id": "pop-model",
+      "lat_smooth_seconds": 0.0,
       "name": "POP Model 👀📡",
       "version": "v9"
     },
     {
+      "desired_curvature_head": true,
       "id": "postal-service",
       "name": "Postal Service 👀📡",
       "version": "v5"
@@ -132,6 +141,7 @@
     },
     {
       "id": "sc-driving",
+      "lat_smooth_seconds": 0.0,
       "name": "SC driving 👀📡",
       "version": "v9"
     },
@@ -162,11 +172,13 @@
     },
     {
       "id": "vegan-filet-o-fish",
+      "lat_smooth_seconds": 0.0,
       "name": "Vegan Filet-O-Fish 👀📡",
       "version": "v7"
     },
     {
       "id": "vegetarian-filet-o-fish",
+      "lat_smooth_seconds": 0.0,
       "name": "Vegetarian Filet-O-Fish 👀📡",
       "version": "v7"
     },
@@ -177,6 +189,7 @@
     },
     {
       "id": "wmi-model",
+      "lat_smooth_seconds": 0.0,
       "name": "WMI model 👀📡",
       "version": "v9"
     }
