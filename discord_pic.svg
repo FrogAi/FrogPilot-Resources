@@ -20,7 +20,11 @@
         <stop offset=".52" stop-color="#4c96a5"/>
         <stop offset="1" stop-color="#345f7b"/>
       </radialGradient>
-      <clipPath id="boot-portrait-crop">
+      <clipPath id="boot-arm-tuck">
+        <path d="M0 0 L2200 0 L2200 271.8 L1077 520 L1077 1200 L0 1200 Z"/>
+        <ellipse cx="1077.3" cy="490.4" rx="359.2" ry="364"/>
+      </clipPath>
+      <clipPath id="boot-portrait-crop" clip-path="url(#boot-arm-tuck)">
         <rect x="600" y="30" width="960" height="825"/>
       </clipPath>
     </defs>
