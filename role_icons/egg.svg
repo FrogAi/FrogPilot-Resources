@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="100 17 800 800" role="img" aria-labelledby="icon-title icon-desc">
+  <title id="icon-title">The Egg</title>
+  <desc id="icon-desc">
+    FrogPilot (driver-assistance software for cars) Discord role icon: a plain white egg standing upright, with a dark outline, lit from the upper left, with soft warm shading on its lower right and a soft shadow beneath it.
+  </desc>
+  <defs>
+    <radialGradient id="shell" cx="440" cy="340" r="470" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".4" stop-color="#faf8f4"/>
+      <stop offset=".75" stop-color="#e7e0d5"/>
+      <stop offset="1" stop-color="#cdc2b2"/>
+    </radialGradient>
+    <linearGradient id="shell-shade" x1="0" y1="0" x2=".6" y2="1">
+      <stop offset="0" stop-color="#c9bfae"/>
+      <stop offset="1" stop-color="#998a73"/>
+    </linearGradient>
+    <radialGradient id="contact-shadow">
+      <stop offset="0" stop-color="#03142c" stop-opacity=".35"/>
+      <stop offset=".6" stop-color="#03142c" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#03142c" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="egg-clip">
+      <path d="M 500 64 C 612 64 764 262 764 486 C 764 652 648 760 500 760 C 352 760 236 652 236 486 C 236 262 388 64 500 64 Z"/>
+    </clipPath>
+  </defs>
+  <g stroke="#03142c" stroke-linecap="round" stroke-linejoin="round" stroke-width="6">
+    <ellipse cx="500" cy="764" rx="250" ry="34" fill="url(#contact-shadow)" stroke="none"/>
+    <path d="M 500 64 C 612 64 764 262 764 486 C 764 652 648 760 500 760 C 352 760 236 652 236 486 C 236 262 388 64 500 64 Z" fill="url(#shell)" stroke="none"/>
+    <g stroke="none" clip-path="url(#egg-clip)">
+      <path d="M 200 40 L 800 40 L 800 800 L 200 800 Z M 466 26 C 578 26 730 224 730 448 C 730 614 614 722 466 722 C 318 722 202 614 202 448 C 202 224 354 26 466 26 Z" opacity=".6" fill="url(#shell-shade)" fill-rule="evenodd"/>
+    </g>
+    <path d="M 500 64 C 612 64 764 262 764 486 C 764 652 648 760 500 760 C 352 760 236 652 236 486 C 236 262 388 64 500 64 Z" fill="none"/>
+  </g>
+</svg>

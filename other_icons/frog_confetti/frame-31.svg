@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="4 2 176 176" role="img" aria-labelledby="icon-title icon-desc">
+  <title id="icon-title">Frog Confetti, frame 32 of 32</title>
+  <desc id="icon-desc">
+    FrogPilot (driver-assistance software for cars) emoji: a green cartoon frog laughing as confetti spins around it, frame 32 of 32, shown for 50 ms.
+  </desc>
+  <defs>
+    <linearGradient id="edge-shade" x1="0" y1="0" x2=".8" y2="1">
+      <stop offset="0" stop-color="#5c9f3d"/>
+      <stop offset=".63" stop-color="#488436"/>
+      <stop offset="1" stop-color="#2e5b28"/>
+    </linearGradient>
+    <linearGradient id="body-skin" x1="300" y1="500" x2="711" y2="760" gradientUnits="userSpaceOnUse" gradientTransform="translate(25.67 23.4) scale(0.2316 0.2316) translate(-213.56 -124.08)">
+      <stop offset="0" stop-color="#75c25a"/>
+      <stop offset=".42" stop-color="#66b84c"/>
+      <stop offset=".74" stop-color="#59a641"/>
+      <stop offset="1" stop-color="#43832e"/>
+    </linearGradient>
+    <linearGradient id="belly" x1="470" y1="562" x2="530" y2="750" gradientUnits="userSpaceOnUse" gradientTransform="translate(25.67 23.4) scale(0.2316 0.2316) translate(-213.56 -124.08)">
+      <stop stop-color="#aacf80"/>
+      <stop offset=".5" stop-color="#a2ca73"/>
+      <stop offset="1" stop-color="#8abb61"/>
+    </linearGradient>
+    <radialGradient id="skin" cx="449" cy="279" r="470" gradientUnits="userSpaceOnUse" gradientTransform="translate(25.67 23.4) scale(0.2316 0.2316) translate(-213.56 -124.08)">
+      <stop offset="0" stop-color="#75c25a"/>
+      <stop offset=".42" stop-color="#66b84c"/>
+      <stop offset=".74" stop-color="#59a641"/>
+      <stop offset="1" stop-color="#43832e"/>
+    </radialGradient>
+    <radialGradient id="nose-dimple">
+      <stop stop-color="#427b32"/>
+      <stop offset=".55" stop-color="#4b8936"/>
+      <stop offset=".85" stop-color="#5a9c40"/>
+      <stop offset="1" stop-color="#6bb24b"/>
+    </radialGradient>
+    <radialGradient id="cheek-light">
+      <stop stop-color="#a2d16f" stop-opacity=".45"/>
+      <stop offset=".5" stop-color="#a2d16f" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#a2d16f" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="muzzle" cx="500" cy="425" r="283" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#aacf80"/>
+      <stop offset=".5" stop-color="#a2ca73"/>
+      <stop offset="1" stop-color="#8abb61"/>
+    </radialGradient>
+    <clipPath id="body-clip">
+      <path d="M 54 108 C 46 122 36 134 33 150 C 31 158 31 163 31 168 L 153 168 C 153 163 153 158 151 150 C 148 134 138 122 130 108 Z"/>
+    </clipPath>
+    <clipPath id="head-clip">
+      <path d="M 33.41 59.97 C 32.26 53.72 32.26 45.62 34.57 38.2 C 38.28 27.09 47.77 21.76 57.27 23.84 C 66.3 25.47 70.93 32.18 73.94 39.59 C 85.76 36.12 98.26 36.12 110.07 39.59 C 113.09 32.18 117.72 25.47 126.75 23.84 C 136.25 21.76 145.74 27.09 149.45 38.2 C 151.76 45.62 151.76 53.72 150.6 59.97 C 153.85 64.61 156.39 69.93 157.55 75.49 C 160.1 84.29 156.63 93.56 145.74 101.43 C 134.16 109.77 118.41 114.63 100.58 116.25 C 95.02 116.72 89 116.72 83.44 116.25 C 65.61 114.63 49.86 109.77 38.28 101.43 C 27.39 93.56 23.92 84.29 26.47 75.49 C 27.62 69.93 30.17 64.61 33.41 59.97 Z"/>
+    </clipPath>
+    <clipPath id="mirror-half">
+      <rect x="-4907.98" y="-5000" width="5000" height="10000"/>
+    </clipPath>
+  </defs>
+  <path d="M 54 108 C 46 122 36 134 33 150 C 31 158 31 163 31 168 L 153 168 C 153 163 153 158 151 150 C 148 134 138 122 130 108 Z" fill="url(#body-skin)"/>
+  <g clip-path="url(#body-clip)">
+    <g transform="translate(25.67 23.4) scale(0.2316 0.2316) translate(-213.56 -124.08)">
+      <path d="M 697 536 C 712 560 734 592 750 625 C 762 650 768 672 769 700 L 769 900 L 707 900 C 709 780 708 716 704 684 C 698.32 638.57 683.68 596.72 665.17 558.45 C 672.63 548.81 683.45 540.6 697 536 Z" opacity=".22" fill="#346c2d"/>
+      <path d="M 312 536 C 297 560 275 592 259 625 C 247 650 241 672 240 700 L 240 900 L 249 900 L 249 700 C 250 672 256 650 268 625 C 284 592 304 560 312 536 Z" opacity=".7" fill="#a0cf6b"/>
+      <path d="M 697 536 C 724 560 746 592 762 625 C 774 650 780 672 781 700 L 781 900 L 754 900 L 754 700 C 753 672 747 650 735 625 C 719 592 697 560 697 536 Z" opacity=".45" fill="#346c2d"/>
+      <path d="M 334.83 558.45 C 316.32 596.72 301.68 638.57 296 684 C 292 716 291 780 293 900 L 308 900 C 306 790 307 724 311 690 C 315.79 649.75 325.18 607.66 336.51 558.45 Z" opacity=".32" fill="#3f7d2e"/>
+      <path d="M 665.17 558.45 C 683.68 596.72 698.32 638.57 704 684 C 708 716 709 780 707 900 L 692 900 C 694 790 693 724 689 690 C 684.21 649.75 674.82 607.66 663.49 558.45 Z" opacity=".35" fill="#346e2c"/>
+    </g>
+  </g>
+  <path d="M 60 168 L 60 152 C 60 134 74 125 92 125 C 110 125 124 134 124 152 L 124 168 Z" fill="url(#belly)"/>
+  <g clip-path="url(#body-clip)">
+    <g transform="translate(25.67 23.4) scale(0.2316 0.2316) translate(-213.56 -124.08)">
+      <path d="M 296 468 C 417 528 588 536 712 468 L 712 512 C 567 565 426 557 296 512 Z" opacity=".28" fill="#3e7930"/>
+    </g>
+  </g>
+  <path d="M 54 108 C 46 122 36 134 33 150 C 31 158 31 163 31 168 L 153 168 C 153 163 153 158 151 150 C 148 134 138 122 130 108 Z" fill="none" stroke="#03142c" stroke-width="1.39" stroke-linejoin="round"/>
+  <path d="M 54 124 C 49 138 46 153 46 168" fill="none" stroke="#03142c" stroke-width="1.1" stroke-linecap="round"/>
+  <path d="M 130 124 C 135 138 138 153 138 168" fill="none" stroke="#03142c" stroke-width="1.1" stroke-linecap="round"/>
+  <path d="M 33.41 59.97 C 32.26 53.72 32.26 45.62 34.57 38.2 C 38.28 27.09 47.77 21.76 57.27 23.84 C 66.3 25.47 70.93 32.18 73.94 39.59 C 85.76 36.12 98.26 36.12 110.07 39.59 C 113.09 32.18 117.72 25.47 126.75 23.84 C 136.25 21.76 145.74 27.09 149.45 38.2 C 151.76 45.62 151.76 53.72 150.6 59.97 C 153.85 64.61 156.39 69.93 157.55 75.49 C 160.1 84.29 156.63 93.56 145.74 101.43 C 134.16 109.77 118.41 114.63 100.58 116.25 C 95.02 116.72 89 116.72 83.44 116.25 C 65.61 114.63 49.86 109.77 38.28 101.43 C 27.39 93.56 23.92 84.29 26.47 75.49 C 27.62 69.93 30.17 64.61 33.41 59.97 Z" fill="url(#skin)"/>
+  <g clip-path="url(#head-clip)">
+    <g transform="translate(25.67 23.4) scale(0.2316 0.2316) translate(-213.56 -124.08)">
+      <path d="M 208 352 C 222 410 272 453 341 479 C 465 526 640.56 500.65 724.56 444.65 C 765.56 417.32 781.5 396.96 791.5 350.96 C 798.5 416.96 777.88 459.33 717.88 489.33 C 627.88 538.33 458 562 328 515 C 245 485 195 433 196 386 Z" opacity=".45" fill="#488436"/>
+      <path d="M 263 227 C 265 177 302 139 343 146 C 373 149 394 169 405 193 C 384 172 364 164 342 163 C 311 159 284 186 263 227 Z" fill="#afd86f"/>
+      <path d="M 440 207 C 474 198 526 198 560 207 C 561 210 558 212 554 211 C 520 203.5 480 203.5 446 211 C 442 212 439 210 440 207 Z" opacity=".65" fill="#a2d370" stroke="none" stroke-linecap="round" stroke-width="8"/>
+      <path d="M 408 201 C 423 222 428 246 421 270 C 425 245 419 222 408 201 Z" opacity=".55" fill="#518d37" stroke="none"/>
+      <path d="M 255 183 C 239 220 245 260 250 281 C 234 308 225 329 224 353 C 233 328 247 315 260 300 C 266 292 265 283 262 270 C 254 239 253 211 256 180 Z" opacity=".5" fill="#4f9637" stroke="none"/>
+      <path d="M 256 300 C 234 323 226 350 232 371 C 235 345 248 328 263 316 C 273 308 269 286.4 256 300 Z" fill="url(#skin)"/>
+      <path d="M 256 300 C 234 323 226 350 232 371 C 235 345 248 328 263 316 C 273 308 269 286.4 256 300 Z" opacity=".65" fill="#a0cf6a"/>
+      <path d="M 791.5 350.96 C 781.5 396.96 765.56 417.32 724.56 444.65 C 640.56 500.65 465 526 341 479 C 326.81 473.65 313.43 467.59 301 460.83 C 325 508 399 531 463 537 C 536 544 614.08 524.37 680.08 501.37 C 746.08 480.37 784.23 446.56 794.23 403.56 Z" opacity=".86" fill="url(#edge-shade)" stroke="none"/>
+      <path d="M 353.18 394.38 C 379.09 403.02 448.18 407.34 500 407.34 C 551.82 407.34 620.91 403.02 646.82 394.38 C 661.82 390.38 681.82 396.38 693.82 408.38 C 710.62 425.18 720 450 692 467 C 651 493 575 514 498 514 C 421 514 348 494 306 468 C 280 450 289.38 425.18 306.18 408.38 C 318.18 396.38 338.18 390.38 353.18 394.38 Z" fill="url(#muzzle)"/>
+      <ellipse cx="344" cy="352" rx="43" ry="27" opacity=".8" fill="url(#cheek-light)"/>
+    </g>
+  </g>
+  <g transform="matrix(-1 0 0 1 184.02 0)">
+    <g clip-path="url(#mirror-half)">
+      <path d="M 33.41 59.97 C 32.26 53.72 32.26 45.62 34.57 38.2 C 38.28 27.09 47.77 21.76 57.27 23.84 C 66.3 25.47 70.93 32.18 73.94 39.59 C 85.76 36.12 98.26 36.12 110.07 39.59 C 113.09 32.18 117.72 25.47 126.75 23.84 C 136.25 21.76 145.74 27.09 149.45 38.2 C 151.76 45.62 151.76 53.72 150.6 59.97 C 153.85 64.61 156.39 69.93 157.55 75.49 C 160.1 84.29 156.63 93.56 145.74 101.43 C 134.16 109.77 118.41 114.63 100.58 116.25 C 95.02 116.72 89 116.72 83.44 116.25 C 65.61 114.63 49.86 109.77 38.28 101.43 C 27.39 93.56 23.92 84.29 26.47 75.49 C 27.62 69.93 30.17 64.61 33.41 59.97 Z" fill="url(#skin)"/>
+        <g clip-path="url(#head-clip)">
+          <g transform="translate(25.67 23.4) scale(0.2316 0.2316) translate(-213.56 -124.08)">
+            <path d="M 208 352 C 222 410 272 453 341 479 C 465 526 640.56 500.65 724.56 444.65 C 765.56 417.32 781.5 396.96 791.5 350.96 C 798.5 416.96 777.88 459.33 717.88 489.33 C 627.88 538.33 458 562 328 515 C 245 485 195 433 196 386 Z" opacity=".45" fill="#488436"/>
+            <path d="M 263 227 C 265 177 302 139 343 146 C 373 149 394 169 405 193 C 384 172 364 164 342 163 C 311 159 284 186 263 227 Z" fill="#afd86f"/>
+            <path d="M 440 207 C 474 198 526 198 560 207 C 561 210 558 212 554 211 C 520 203.5 480 203.5 446 211 C 442 212 439 210 440 207 Z" opacity=".65" fill="#a2d370" stroke="none" stroke-linecap="round" stroke-width="8"/>
+            <path d="M 408 201 C 423 222 428 246 421 270 C 425 245 419 222 408 201 Z" opacity=".55" fill="#518d37" stroke="none"/>
+            <path d="M 255 183 C 239 220 245 260 250 281 C 234 308 225 329 224 353 C 233 328 247 315 260 300 C 266 292 265 283 262 270 C 254 239 253 211 256 180 Z" opacity=".5" fill="#4f9637" stroke="none"/>
+            <path d="M 256 300 C 234 323 226 350 232 371 C 235 345 248 328 263 316 C 273 308 269 286.4 256 300 Z" fill="url(#skin)"/>
+            <path d="M 256 300 C 234 323 226 350 232 371 C 235 345 248 328 263 316 C 273 308 269 286.4 256 300 Z" opacity=".65" fill="#a0cf6a"/>
+            <path d="M 791.5 350.96 C 781.5 396.96 765.56 417.32 724.56 444.65 C 640.56 500.65 465 526 341 479 C 326.81 473.65 313.43 467.59 301 460.83 C 325 508 399 531 463 537 C 536 544 614.08 524.37 680.08 501.37 C 746.08 480.37 784.23 446.56 794.23 403.56 Z" opacity=".86" fill="url(#edge-shade)" stroke="none"/>
+            <path d="M 353.18 394.38 C 379.09 403.02 448.18 407.34 500 407.34 C 551.82 407.34 620.91 403.02 646.82 394.38 C 661.82 390.38 681.82 396.38 693.82 408.38 C 710.62 425.18 720 450 692 467 C 651 493 575 514 498 514 C 421 514 348 494 306 468 C 280 450 289.38 425.18 306.18 408.38 C 318.18 396.38 338.18 390.38 353.18 394.38 Z" fill="url(#muzzle)"/>
+            <ellipse cx="344" cy="352" rx="43" ry="27" opacity=".8" fill="url(#cheek-light)"/>
+          </g>
+        </g>
+    </g>
+  </g>
+  <path d="M 33.41 59.97 C 32.26 53.72 32.26 45.62 34.57 38.2 C 38.28 27.09 47.77 21.76 57.27 23.84 C 66.3 25.47 70.93 32.18 73.94 39.59 C 85.76 36.12 98.26 36.12 110.07 39.59 C 113.09 32.18 117.72 25.47 126.75 23.84 C 136.25 21.76 145.74 27.09 149.45 38.2 C 151.76 45.62 151.76 53.72 150.6 59.97 C 153.85 64.61 156.39 69.93 157.55 75.49 C 160.1 84.29 156.63 93.56 145.74 101.43 C 134.16 109.77 118.41 114.63 100.58 116.25 C 95.02 116.72 89 116.72 83.44 116.25 C 65.61 114.63 49.86 109.77 38.28 101.43 C 27.39 93.56 23.92 84.29 26.47 75.49 C 27.62 69.93 30.17 64.61 33.41 59.97 Z" fill="none" stroke="#03142c" stroke-width="1.39" stroke-linejoin="round"/>
+  <path d="M 44 52 C 48 42 60 42 64 52" fill="none" stroke="#03142c" stroke-width="2.78" stroke-linecap="round"/>
+  <path d="M 120 52 C 124 42 136 42 140 52" fill="none" stroke="#03142c" stroke-width="2.78" stroke-linecap="round"/>
+  <ellipse cx="81.93" cy="67.85" rx="1.98" ry="1.56" fill="url(#nose-dimple)"/>
+  <ellipse cx="102.07" cy="67.85" rx="1.98" ry="1.56" fill="url(#nose-dimple)"/>
+  <path d="M 58 86 C 64 88 80 89 92 89 C 104 89 120 88 126 86 C 122 102 106 108 92 108 C 78 108 62 102 58 86 Z" fill="#7a1f2b" stroke="#03142c" stroke-width="1.85" stroke-linejoin="round"/>
+  <path d="M 78 101 C 84 97 100 97 106 101 C 102 106 82 106 78 101 Z" fill="#e8687a"/>
+  <rect x="-6" y="-3.4" width="12" height="6.8" rx="1.6" fill="#f5c84c" stroke="#03142c" stroke-width="0.88" transform="translate(28.83 84.88) rotate(-348.8)"/>
+  <rect x="-6" y="-3.4" width="12" height="6.8" rx="1.6" fill="#f5c84c" stroke="#03142c" stroke-width="0.88" transform="translate(28.83 184.88) rotate(-708.8)"/>
+  <rect x="-6" y="-3.4" width="12" height="6.8" rx="1.6" fill="#f6a3c0" stroke="#03142c" stroke-width="0.88" transform="translate(154.6 100.87) rotate(514.4)"/>
+  <rect x="-6" y="-3.4" width="12" height="6.8" rx="1.6" fill="#f6a3c0" stroke="#03142c" stroke-width="0.88" transform="translate(154.6 0.88) rotate(154.4)"/>
+  <rect x="-6" y="-3.4" width="12" height="6.8" rx="1.6" fill="#5aaee8" stroke="#03142c" stroke-width="0.88" transform="translate(17.35 118.88) rotate(-273.2)"/>
+  <rect x="-6" y="-3.4" width="12" height="6.8" rx="1.6" fill="#5aaee8" stroke="#03142c" stroke-width="0.88" transform="translate(17.35 18.87) rotate(86.9)"/>
+  <rect x="-6" y="-3.4" width="12" height="6.8" rx="1.6" fill="#f5c84c" stroke="#03142c" stroke-width="0.88" transform="translate(167.88 134.88) rotate(798.8)"/>
+  <rect x="-6" y="-3.4" width="12" height="6.8" rx="1.6" fill="#f5c84c" stroke="#03142c" stroke-width="0.88" transform="translate(167.88 34.88) rotate(438.8)"/>
+  <rect x="-6" y="-3.4" width="12" height="6.8" rx="1.6" fill="#e2384d" stroke="#03142c" stroke-width="0.88" transform="translate(34.72 150.88) rotate(-514.4)"/>
+  <rect x="-6" y="-3.4" width="12" height="6.8" rx="1.6" fill="#e2384d" stroke="#03142c" stroke-width="0.88" transform="translate(34.72 50.88) rotate(-154.4)"/>
+  <rect x="-6" y="-3.4" width="12" height="6.8" rx="1.6" fill="#5aaee8" stroke="#03142c" stroke-width="0.88" transform="translate(138.2 168.88) rotate(975.1)"/>
+  <rect x="-6" y="-3.4" width="12" height="6.8" rx="1.6" fill="#5aaee8" stroke="#03142c" stroke-width="0.88" transform="translate(138.2 68.87) rotate(615.1)"/>
+</svg>
