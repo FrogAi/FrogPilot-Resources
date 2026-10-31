@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="icon-title icon-desc">
+  <title id="icon-title">Chrysler</title>
+  <desc id="icon-desc">
+    FrogPilot (driver-assistance software for cars) car icon: the Chrysler Pentastar, Chrysler&apos;s emblem from 1962, five triangles around a five-pointed star, in chrome.
+  </desc>
+  <defs>
+    <linearGradient id="chrome" x1="0" y1="85.17" x2="0" y2="925.12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bec3ca"/>
+      <stop offset="1" stop-color="#686f79"/>
+    </linearGradient>
+  </defs>
+  <g transform="matrix(1.07965 0 0 1.07965 -39.82 -45.36)">
+    <path d="M67.16 389.36L460.51 490.53L485.84 85.17ZM218.33 908.48L436.1 565.64L58.41 416.28ZM758.76 925.12L500 612.07L241.24 925.12ZM941.59 416.28L563.9 565.64L781.67 908.48ZM514.16 85.17L539.49 490.53L932.84 389.36Z" fill="url(#chrome)"/>
+  </g>
+</svg>
