@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000" role="img" aria-labelledby="icon-title icon-desc">
+  <title id="icon-title">Audi</title>
+  <desc id="icon-desc">
+    FrogPilot (driver-assistance software for cars) car icon: the flat 2D Audi four rings, the design introduced in 2016, in chrome.
+  </desc>
+  <defs>
+    <linearGradient id="chrome" x1="0" y1="332.28" x2="0" y2="667.24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bec3ca"/>
+      <stop offset="1" stop-color="#686f79"/>
+    </linearGradient>
+  </defs>
+  <g transform="matrix(1.0172 0 0 1.0172 -8.6 -8.47)">
+    <path d="M31.52 499.76A167.54 167.54 0 1 1 366.61 499.76A167.54 167.54 0 1 1 31.52 499.76ZM66.2 499.76A132.86 132.86 0 1 0 331.93 499.76A132.86 132.86 0 1 0 66.2 499.76ZM232.15 499.76A167.54 167.54 0 1 1 567.23 499.76A167.54 167.54 0 1 1 232.15 499.76ZM266.83 499.76A132.86 132.86 0 1 0 532.55 499.76A132.86 132.86 0 1 0 266.83 499.76ZM432.77 499.76A167.54 167.54 0 1 1 767.86 499.76A167.54 167.54 0 1 1 432.77 499.76ZM467.46 499.76A132.86 132.86 0 1 0 733.18 499.76A132.86 132.86 0 1 0 467.46 499.76ZM633.4 499.76A167.54 167.54 0 1 1 968.48 499.76A167.54 167.54 0 1 1 633.4 499.76ZM668.08 499.76A132.86 132.86 0 1 0 933.8 499.76A132.86 132.86 0 1 0 668.08 499.76Z" fill="url(#chrome)"/>
+  </g>
+</svg>
