@@ -157,6 +157,12 @@
       "version": "v5"
     },
     {
+      "id": "smoked-cheddar-model",
+      "lat_smooth_seconds": 0.0,
+      "name": "Smoked Cheddar Model 👀📡",
+      "version": "v10"
+    },
+    {
       "id": "space-lab",
       "name": "Space Lab 👀📡",
       "version": "v8"
