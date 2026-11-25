@@ -145,6 +145,11 @@
     "name": "SecretGoodOpenpilot"
   },
   {
+    "id": "smoked-cheddar-model",
+    "lat_smooth_seconds": 0.0,
+    "name": "Smoked Cheddar Model"
+  },
+  {
     "id": "space-lab",
     "lat_smooth_seconds": 0.1,
     "name": "Space Lab"
