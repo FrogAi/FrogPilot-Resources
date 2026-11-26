@@ -20,6 +20,11 @@
     "name": "Cheddar Model"
   },
   {
+    "id": "crumbly-cheddar-model",
+    "lat_smooth_seconds": 0.0,
+    "name": "Crumbly Cheddar Model"
+  },
+  {
     "id": "dark-souls",
     "lat_smooth_seconds": 0.1,
     "name": "Dark Souls"
