@@ -29,6 +29,12 @@
       "version": "v10"
     },
     {
+      "id": "crumbly-cheddar-model",
+      "lat_smooth_seconds": 0.0,
+      "name": "Crumbly Cheddar Model 👀📡",
+      "version": "v10"
+    },
+    {
       "id": "down-to-ride",
       "name": "Down to Ride 👀📡",
       "version": "v8"
